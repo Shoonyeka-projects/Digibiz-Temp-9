@@ -1,0 +1,21 @@
+
+{
+    "sectionSubtitle": "We See",
+    "sectionTitle": "What Others Don't See.",
+    "widgets": [
+      { "icon": "ti-notepad", "title": "Planning" },
+      { "icon": "ti-layout", "title": "Mockup" },
+      { "icon": "ti-filter", "title": "Develop" },
+      { "icon": "ti-thumb-up", "title": "Provide" }
+    ],
+
+    "sectionSubtitle_meta": "6",
+    "sectionTitle_meta": "22",
+    "widgets_meta": [
+      { "title": "8" },
+      { "title": "6" },
+      { "title": "7" },
+      { "title": "7" }
+    ]
+  }
+  

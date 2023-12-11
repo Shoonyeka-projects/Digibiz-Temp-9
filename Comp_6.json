@@ -1,0 +1,52 @@
+{
+    "sectionSubtitle": "Meet With",
+    "sectionTitle": "Our Angels",
+    "teamMembers": [
+      {
+        "imgSrc": "assets/imgs/avatar.jpg",
+        "position": "FOUNDER",
+        "name": "Matthew Davis",
+        "role": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni quos esse tenetur illo qui, nostrum.",
+        "socialLinks": [
+          { "platform": "Facebook", "link": "/profile/matthew-davis" },
+          { "platform": "GitHub", "link": "/profile/matthew-davis" },
+          { "platform": "Dropbox", "link": "/profile/matthew-davis" },
+          { "platform": "Twitter", "link": "/profile/matthew-davis" }
+        ],
+        "position_meta": "7",
+        "name_meta": "13",
+        "role_meta": "100"
+      },
+      {
+        "imgSrc": "assets/imgs/avatar.jpg",
+        "position": "FOUNDER",
+        "name": "Matthew Davis",
+        "role": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni quos esse tenetur illo qui, nostrum.",
+        "socialLinks": [
+          { "platform": "Facebook", "link": "/profile/matthew-davis" },
+          { "platform": "GitHub", "link": "/profile/matthew-davis" },
+          { "platform": "Dropbox", "link": "/profile/matthew-davis" },
+          { "platform": "Twitter", "link": "/profile/matthew-davis" }
+        ],
+        "position_meta": "7",
+        "name_meta": "13",
+        "role_meta": "100"
+      },
+      {
+        "imgSrc": "assets/imgs/avatar.jpg",
+        "position": "FOUNDER",
+        "name": "Matthew Davis",
+        "role": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni quos esse tenetur illo qui, nostrum.",
+        "socialLinks": [
+          { "platform": "Facebook", "link": "/profile/matthew-davis" },
+          { "platform": "GitHub", "link": "/profile/matthew-davis" },
+          { "platform": "Dropbox", "link": "/profile/matthew-davis" },
+          { "platform": "Twitter", "link": "/profile/matthew-davis" }
+        ],
+        "position_meta": "7",
+        "name_meta": "13",
+        "role_meta": "100"
+      }
+    ]
+  }
+  

@@ -1,0 +1,54 @@
+
+{
+    "sectionSubtitle": "Get Here",
+    "sectionTitle": "Contact Us",
+    "contactInfos": [
+      {
+        "icon": "ti-location-pin",
+        "title": "Location",
+        "content": "12345 Fake ST NoWhere AB Country"
+      },
+      {
+        "icon": "ti-mobile",
+        "title": "Phone Number",
+        "content": "(123) 456-7890"
+      },
+      {
+        "icon": "ti-email",
+        "title": "Email Address",
+        "content": "info@website.com"
+      },
+      {
+        "icon": "ti-world",
+        "title": "Website",
+        "content": "info@example.com"
+      }
+    ],
+    "formSubtitle": "Available 24/7",
+    "formTitle": "Get In Touch",
+    "formInputs": [
+      {
+        "type": "email",
+        "placeholder": "Enter email",
+        "label": "Email",
+        "id": "exampleInputEmail1",
+        "required": true
+      },
+      {
+        "type": "password",
+        "placeholder": "Password",
+        "label": "Password",
+        "id": "exampleInputPassword1",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Message",
+        "label": "Message",
+        "id": "contactMessage",
+        "rows": 7
+      }
+    ],
+    "submitButton": "Send Message"
+  }
+  

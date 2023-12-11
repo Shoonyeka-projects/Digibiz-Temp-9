@@ -1,0 +1,80 @@
+
+{
+    "sectionSubtitle": "Makes Happen",
+    "sectionTitle": "Our Service",
+    "cards": [
+      {
+        "icon": "ti-filter",
+        "title": "corporis assumenda",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!",
+
+        "icon_meta": "9",
+        "title_meta": "18",
+        "content_meta": "80"
+      },
+      {
+        "icon": "ti-paint-roller",
+        "title": "Debitis amet",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!",
+
+        "icon_meta": "15",
+        "title_meta": "12",
+        "content_meta": "80"
+      },
+      {
+        "icon": "ti-ruler-pencil",
+        "title": "Libero temporibus",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!",
+
+        "icon_meta": "15",
+        "title_meta": "17",
+        "content_meta": "80"
+      },
+      {
+        "icon": "ti-layers",
+        "title": "Perspiciatis explicabo",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!",
+
+        "icon_meta": "9",
+        "title_meta": "22",
+        "content_meta": "80"
+      },
+      {
+        "icon": "ti-bolt",
+        "title": "Poluptatum",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!",
+
+        "icon_meta": "7",
+        "title_meta": "10",
+        "content_meta": "80"
+      },
+      {
+        "icon": "ti-palette",
+        "title": "Nihil dicta",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!",
+
+        "icon_meta": "10",
+        "title_meta": "11",
+        "content_meta": "80"
+      },
+      {
+        "icon": "ti-stats-up",
+        "title": "Repellendus maxime",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!",
+
+        "icon_meta": "11",
+        "title_meta": "18",
+        "content_meta": "80"
+      },
+      {
+        "icon": "ti-location-arrow",
+        "title": "Sint vitae",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!",
+
+        "icon_meta": "17",
+        "title_meta": "10",
+        "content_meta": "80"
+      }
+    ]
+  }
+  

@@ -1,0 +1,33 @@
+
+{
+    "items": [
+      {
+        "icon": "ti-vector",
+        "title": "UX/UI Design",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis excepturi, repellat esse laborum explicabo quia.",
+
+        "icon_meta": "9",
+        "title_meta": "12",
+        "content_meta": "112"
+      },
+      {
+        "icon": "ti-filter",
+        "title": "Web Development",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis excepturi, repellat esse laborum explicabo quia.",
+
+        "icon_meta": "9",
+        "title_meta": "15",
+        "content_meta": "112"
+      },
+      {
+        "icon": "ti-mobile",
+        "title": "App Design",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis excepturi, repellat esse laborum explicabo quia.",
+
+        "icon_meta": "9",
+        "title_meta": "10",
+        "content_meta": "112"
+      }
+    ]
+  }
+  

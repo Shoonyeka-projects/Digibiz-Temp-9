@@ -1,0 +1,24 @@
+
+{
+    "sectionSubtitle": "Testimonial",
+    "sectionTitle": "What Our Clients Say",
+    "testimonials": [
+      {
+        "avatarSrc": "assets/imgs/avatar-5.jpg",
+        "testimonialText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque doloribus autem aperiam earum nostrum omnis blanditiis corporis perspiciatis adipisci nihil.",
+        "clientName": "Richard Reb",
+
+        "testimonialText_meta": "156",
+        "clientName_meta": "11"
+      },
+      {
+        "avatarSrc": "assets/imgs/avatar-6.jpg",
+        "testimonialText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque doloribus autem aperiam earum nostrum omnis blanditiis corporis perspiciatis adipisci nihil.",
+        "clientName": "John Doe",
+
+        "testimonialText_meta": "156",
+        "clientName_meta": "8"
+      }
+    ]
+  }
+  

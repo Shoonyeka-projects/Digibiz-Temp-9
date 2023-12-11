@@ -1,0 +1,40 @@
+
+{
+    "sectionSubtitle": "We Are Awesome",
+    "sectionTitle": "Some Fun Facts",
+    "funFacts": [
+      {
+        "icon": "ti-cup",
+        "title": "100+",
+        "subtitle": "Awards Won",
+
+        "title_meta": "4",
+        "subtitle_meta": "10"
+      },
+      {
+        "icon": "ti-face-smile",
+        "title": "100+",
+        "subtitle": "Happy Clients",
+
+        "title_meta": "4",
+        "subtitle_meta": "13"
+      },
+      {
+        "icon": "ti-blackboard",
+        "title": "845+",
+        "subtitle": "Projects Completed",
+
+        "title_meta": "4",
+        "subtitle_meta": "18"
+      },
+      {
+        "icon": "ti-comments-smiley",
+        "title": "15K+",
+        "subtitle": "Comments",
+
+        "title_meta": "4",
+        "subtitle_meta": "8"
+      }
+    ]
+  }
+  

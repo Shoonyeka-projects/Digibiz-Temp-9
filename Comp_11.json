@@ -1,0 +1,35 @@
+
+{
+    "sectionSubtitle": "News Feeds",
+    "sectionTitle": "Our Blog",
+    "blogPosts": [
+      {
+        "imageSrc": "assets/imgs/blog-1.jpg",
+        "comments": 123,
+        "views": 123,
+        "title": "Possimus aliquam veniam",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae laudantium dolor nisi obcaecati, non laboriosam asperiores doloremque tempora repellendus iure!",
+        "readMoreLink": "/blog/1"
+      },
+      {
+        "imageSrc": "assets/imgs/blog-2.jpg",
+        "comments": 434,
+        "views": 987,
+        "title": "Repudiandae laudantium",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae laudantium dolor nisi obcaecati, non laboriosam asperiores doloremque tempora repellendus iure!",
+        "readMoreLink": "/blog/2"
+      },
+      {
+        "imageSrc": "assets/imgs/blog-3.jpg",
+        "comments": 164,
+        "views": 425,
+        "title": "Laboriosam asperiores",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae laudantium dolor nisi obcaecati, non laboriosam asperiores doloremque tempora repellendus iure!",
+        "readMoreLink": "/blog/3"
+      },
+     { "title_meta": "23",
+        "content_meta": "165"
+     }
+    ]
+  }
+  

@@ -1,0 +1,38 @@
+
+{
+    "sectionSubtitle": "Our Awesome Works",
+    "sectionTitle": "Our Portfolio",
+    "projects": [
+      {
+        "imgSrc": "assets/imgs/folio-1.jpg",
+        "title": "Project Title 1",
+        "link": "/portfolio/project1"
+      },
+      {
+        "imgSrc": "assets/imgs/folio-3.jpg",
+        "title": "Project Title 5",
+        "link": "/portfolio/project3"
+      },
+      {
+        "imgSrc": "assets/imgs/folio-5.jpg",
+        "title": "Project Title 3",
+        "link": "/portfolio/project5"
+      },
+      {
+        "imgSrc": "assets/imgs/folio-2.jpg",
+        "title": "Project Title 2",
+        "link": "/portfolio/project2"
+      },
+      {
+        "imgSrc": "assets/imgs/folio-4.jpg",
+        "title": "Project Title 4",
+        "link": "/portfolio/project4"
+      },
+      {
+        "imgSrc": "assets/imgs/folio-6.jpg",
+        "title": "Project Title 6",
+        "link": "/portfolio/project6"
+      }
+    ]
+  }
+  
